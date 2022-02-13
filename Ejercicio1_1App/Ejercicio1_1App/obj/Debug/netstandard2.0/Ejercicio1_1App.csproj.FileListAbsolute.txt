@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\bin\Debug\netstandard2.0\Ejercicio1_1App.deps.json
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\bin\Debug\netstandard2.0\Ejercicio1_1App.dll
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\bin\Debug\netstandard2.0\ref\Ejercicio1_1App.dll
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\bin\Debug\netstandard2.0\Ejercicio1_1App.pdb
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.dll
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\ref\Ejercicio1_1App.dll
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\Ejercicio1_1App.pdb
+C:\Users\Alejandro\source\repos\Ejercicio1_1App\Ejercicio1_1App\Ejercicio1_1App\obj\Debug\netstandard2.0\PageResultado.xaml.g.cs
